@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **React , NextJS and Python**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-kappa-weld.vercel.app/](https://my-portfolio-kappa-weld.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-new-portfolio-chi.vercel.app/)
 
 - 📫 How to reach me **Uceiifali@gmail.com**
 
-- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/18ukcBxPunYCLac8-MgoeWboefWaVhrP7/view" target="blank">Resume</a>
+- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1ut5UnGI0eQ7TqC-3gyz49nfEv0P_Zo0u/view?usp=sharing" target="blank">Resume</a>
 
 
 - ⚡ thinking I’m currently open for **An Intern or a new job opportunity**
